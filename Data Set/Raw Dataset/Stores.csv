@@ -1,0 +1,102 @@
+Store_ID,Store_Name,City,State,Region,Store_Type,Opening_Date
+STR001,Retail 360 Bengaluru Koramangala,Bengaluru,Karnataka,South,Express Store,2018-06-08
+STR002,Retail 360 Bengaluru Indiranagar,Bengaluru,Karnataka,South,Supermarket,27-Oct-2024
+STR003,Retail 360 Bengaluru Whitefield,Bengaluru,Karnataka,South,Hypermarket,2018-09-07
+STR004,Retail 360 Bengaluru Jayanagar,Bengaluru,Karnataka,South,Express Store,2017-03-24
+STR005,Retail 360 Bengaluru Malleshwaram,Bengaluru,Karnataka,South,Supermarket,2023-01-03
+STR006,Retail 360 Bengaluru HSR Layout,Bengaluru,Karnataka,South,Hypermarket,2022-10-08
+STR007,Retail 360 Bengaluru Marathahalli,Bengaluru,Karnataka,South,Supermarket,2021-06-01
+STR008,Retail 360 Bengaluru Yelahanka,Bengaluru,Karnataka,South,Convenience Store,2017-09-09
+STR009,Retail 360 Bengaluru Banashankari,Bengaluru,Karnataka,South,Supermarket,2022-04-14
+STR010,Retail 360 Bengaluru BTM Layout,Bengaluru,Karnataka,South,Hypermarket,2021-09-18
+STR011,Retail 360 Bengaluru Rajajinagar,Bengaluru,Karnataka,South,Convenience Store,2021-10-03
+STR012,Retail 360 Bengaluru Hebbal,Bengaluru,Karnataka,South,Express Store,2024-11-09
+STR013,Retail 360 Bengaluru Electronic City,Bengaluru,Karnataka,South,Hypermarket,2021-09-25
+STR014,Retail 360 Bengaluru Basavanagudi,Bengaluru,Karnataka,South,Supermarket,2017-01-26
+STR015,Retail 360 Mumbai Andheri,Mumbai,Maharashtra,West,Hypermarket,2017-05-23
+STR016,Retail 360 Mumbai Borivali,Mumbai,Maharashtra,West,Supermarket,2022-09-11
+STR017,Retail 360 Mumbai Dadar,Mumbai,Maharashtra,West,Supermarket,2020-06-24
+STR018,Retail 360 Mumbai Powai,Mumbai,Maharashtra,West,Supermarket,2022-06-18
+STR019,Retail 360 Mumbai Bandra,Mumbai,Maharashtra,West,Supermarket,2019-08-15
+STR020,Retail 360 Mumbai Goregaon,Mumbai,Maharashtra,West,Convenience Store,18-May-2024
+STR021,Retail 360 Mumbai Mulund,Mumbai,Maharashtra,West,Convenience Store,2017-11-20
+STR022,Retail 360 Mumbai Chembur,Mumbai,Maharashtra,West,Convenience Store,2021-10-01
+STR023,Retail 360 Mumbai Worli,Mumbai,Maharashtra,West,Supermarket,2021-06-09
+STR024,Retail 360 Mumbai Kurla,Mumbai,Maharashtra,West,Convenience Store,23/08/2021
+STR025,Retail 360 Mumbai Malad,Mumbai,Maharashtra,West,Express Store,2021-06-22
+STR026,Retail 360 Mumbai Ghatkopar,Mumbai,Maharashtra,West,Supermarket,2024-11-17
+STR027,Retail 360 Mumbai Vikhroli,Mumbai,Maharashtra,West,Convenience Store,2021-01-10
+STR028,Retail 360 Mumbai Colaba,Mumbai,Maharashtra,West,Hypermarket,2024-07-01
+STR029,Retail 360 Delhi Rohini,Delhi,Delhi,North,Convenience Store,2019-06-11
+STR030,Retail 360 Delhi Dwarka,Delhi,Delhi,North,Express Store,2020-08-01
+STR031,Retail 360 Delhi Saket,Delhi,Delhi,North,Supermarket,2019-04-25
+STR032,Retail 360 Delhi Lajpat Nagar,Delhi,Delhi,North,Supermarket,2020-06-19
+STR033,Retail 360 Delhi Janakpuri,Delhi,Delhi,North,Hypermarket,2019-06-27
+STR034,Retail 360 Delhi Karol Bagh,Delhi,Delhi,North,Hypermarket,2020-08-10
+STR035,Retail 360 Delhi Mayur Vihar,Delhi,Delhi,North,Hypermarket,2021-01-22
+STR036,Retail 360 Delhi Pitampura,Delhi,Delhi,North,Hypermarket,08/03/2018
+STR037,Retail 360 Delhi Vasant Kunj,Delhi,Delhi,North,Convenience Store,10-Mar-2017
+STR038,Retail 360 Delhi Shahdara,Delhi,Delhi,North,Supermarket,2019-09-07
+STR039,Retail 360 Delhi Chandni Chowk,Delhi,Delhi,North,Supermarket,2019-11-12
+STR040,Retail 360 Delhi Greater Kailash,Delhi,Delhi,North,Express Store,2021-10-22
+STR041,Retail 360 Hyderabad Banjara Hills,Hyderabad,Telangana,South,Supermarket,2017-07-23
+STR042,Retail 360 Hyderabad Gachibowli,Hyderabad,Telangana,South,Convenience Store,2023-06-26
+STR043,Retail 360 Hyderabad Kukatpally,Hyderabad,Telangana,South,Supermarket,06-Jul-2021
+STR044,Retail 360 Hyderabad Madhapur,Hyderabad,Telangana,South,Supermarket,2021-08-08
+STR045,Retail 360 Hyderabad Kondapur,Hyderabad,Telangana,South,Hypermarket,2023-07-24
+STR046,Retail 360 Hyderabad Begumpet,Hyderabad,Telangana,South,Supermarket,2019-02-21
+STR047,Retail 360 Hyderabad Ameerpet,Hyderabad,Telangana,South,Supermarket,2017-10-10
+STR048,Retail 360 Hyderabad Manikonda,Hyderabad,Telangana,South,Hypermarket,2018-03-20
+STR049,Retail 360 Hyderabad Uppal,Hyderabad,Telangana,South,Supermarket,2020-08-08
+STR050,Retail 360 Hyderabad Dilsukhnagar,Hyderabad,Telangana,South,Convenience Store,2020-11-10
+STR051,Retail 360 Chennai T Nagar,Chennai, Tamil Nadu  ,South,Convenience Store,2017-03-07
+STR052,Retail 360 Chennai Adyar,Chennai,Tamil Nadu,South,Supermarket,2019-06-07
+STR053,Retail 360 Chennai Velachery,Chennai,Tamil Nadu,South,Convenience Store,2024-11-21
+STR054,Retail 360 Chennai Anna Nagar,Chennai,Tamil Nadu,South,Supermarket,2024-01-14
+STR055,Retail 360 Chennai Mylapore,Chennai,Tamil Nadu,South,Hypermarket,2022-02-05
+STR056,Retail 360 Chennai Porur,Chennai,Tamil Nadu,South,Hypermarket,2024-11-15
+STR057,Retail 360 Chennai Tambaram,Chennai,Tamil Nadu,South,Hypermarket,05/01/2020
+STR058,Retail 360 Chennai Sholinganallur,Chennai,Tamil Nadu,South,Convenience Store,2022-01-14
+STR059,Retail 360 Pune Baner,Pune,Maharashtra,West,Supermarket,2017-07-20
+STR060,Retail 360 Pune Kothrud,Pune,Maharashtra,West,Hypermarket,2021-04-26
+STR061,Retail 360 Pune Wakad,Pune,Maharashtra,West,Supermarket,2018-02-23
+STR062,Retail 360 Pune Hadapsar,Pune,Maharashtra,West,Hypermarket,2020-06-17
+STR063,Retail 360 Pune Viman Nagar,Pune,Maharashtra,West,Supermarket,2019-01-08
+STR064,Retail 360 Pune Aundh,Pune,Maharashtra,West,Supermarket,2020-04-13
+STR065,Retail 360 Pune Shivajinagar,Pune,Maharashtra,West,Convenience Store,2021-03-04
+STR066,Retail 360 Pune Kharadi,Pune,Maharashtra,West,Convenience Store,2022-06-28
+STR067,Retail 360 Kolkata Salt Lake,Kolkata,West Bengal,East,Convenience Store,2019-05-21
+STR068,Retail 360 Kolkata Ballygunge,Kolkata,West Bengal,East,Supermarket,2021-03-14
+STR069,Retail 360 Kolkata Gariahat,Kolkata,West Bengal,East,Supermarket,29/03/2018
+STR070,Retail 360 Kolkata Dum Dum,Kolkata,West Bengal,East,Supermarket,2022-07-02
+STR071,Retail 360 Kolkata Behala,Kolkata,West Bengal,East,SUPERMARKET,2017-01-03
+STR072,Retail 360 Kolkata New Town,Kolkata,West Bengal,East,Supermarket,2019-11-02
+STR073,Retail 360 Kolkata Tollygunge,Kolkata,West Bengal,East,Hypermarket,2021-02-05
+STR074,Retail 360 Ahmedabad Navrangpura,Ahmedabad,Gujarat,West,Supermarket,2017-07-25
+STR075,Retail 360 Ahmedabad Satellite,Ahmedabad,Gujarat,West,Supermarket,2021-01-11
+STR076,Retail 360 Ahmedabad Bopal,Ahmedabad,Gujarat,West,Supermarket,2023-05-11
+STR077,Retail 360 Ahmedabad Maninagar,Ahmedabad,Gujarat,West,Express Store,2022-04-24
+STR078,Retail 360 Ahmedabad Prahlad Nagar,Ahmedabad,Gujarat,West,Convenience Store,2021-10-03
+STR079,Retail 360 Jaipur Malviya Nagar,Jaipur,Rajasthan,North,Convenience Store,2018-05-01
+STR080,Retail 360 Jaipur Vaishali Nagar,Jaipur,Rajasthan,North,Hypermarket,2023-07-22
+STR081,Retail 360 Jaipur Mansarovar,Jaipur,Rajasthan,North,Hypermarket,2021-08-24
+STR082,Retail 360 Jaipur C Scheme,Jaipur,Rajasthan,North ,Supermarket,2021-10-05
+STR083,Retail 360 Lucknow Gomti Nagar,Lucknow,Uttar Pradesh,North,Supermarket,2017-09-12
+STR084,Retail 360 Lucknow Aliganj,Lucknow,Uttar Pradesh,North,Supermarket,2020-01-06
+STR085,Retail 360 Lucknow Hazratganj,Lucknow,Uttar Pradesh,North,Convenience Store,2021-09-02
+STR086,Retail 360 Lucknow Indira Nagar,Lucknow,Uttar Pradesh,North,Express Store,2020-02-08
+STR087,Retail 360 Kochi Edappally,Kochi,Kerala,South,Supermarket,2019-06-17
+STR088,Retail 360 Kochi Kakkanad,Kochi,Kerala,South,Convenience Store,2020-06-15
+STR089,Retail 360 Kochi Vyttila,Kochi,Kerala,South,Express Store,2024-11-10
+STR090,Retail 360 Kochi Panampilly Nagar,Kochi,Kerala,South,Supermarket,2020-03-19
+STR091,Retail 360 Kozhikode Mavoor Road,Kozhikode,Kerala,South,Express Store,2017-09-02
+STR092,Retail 360 Kozhikode Nadakkavu,Kozhikode,Kerala,South,Supermarket,2020-06-14
+STR093,Retail 360 Coimbatore RS Puram,Coimbatore,Tamil Nadu,South,Supermarket,2018-03-03
+STR094,Retail 360 Coimbatore Peelamedu,Coimbatore,Tamil Nadu,South,Hypermarket,2021-05-25
+STR095,Retail 360 Coimbatore Gandhipuram,Coimbatore,Tamil Nadu,South,express store,2019-03-05
+STR096,Retail 360 Chandigarh Sector 17,Chandigarh,Chandigarh,North,Convenience Store,2017-07-27
+STR097,Retail 360 Chandigarh Sector 35,Chandigarh,Chandigarh,North,Supermarket,2022-07-13
+STR098,Retail 360 Indore Vijay Nagar,Indore,Madhya Pradesh,Central,Supermarket,2018-12-02
+STR099,Retail 360 Indore Palasia,Indore,Madhya Pradesh,Central,Convenience Store,2018-01-26
+STR100,Retail 360 Indore Rajendra Nagar,Indore,Madhya Pradesh,Central,Express Store,2020-06-25
+STR045,Retail 360 Hyderabad Kondapur,Hyderabad,Telangana,South,Hypermarket,2023-07-24

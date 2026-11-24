@@ -1,0 +1,502 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Supplier_ID,Stock_Quantity
+PRD0001,Matta Rice 5kg,Groceries,Rice,Annapoorna Select,SUP001,3114
+PRD0002,Rajma 1kg,Groceries,Pulses,Nirmal Foods,SUP005,7383
+PRD0003,Chana Dal 1kg,Groceries,Pulses,Daily Grain,SUP004,2003
+PRD0004,Turmeric Powder 100g,Groceries,Spices,Nirmal Foods,SUP005,2226
+PRD0005,Urad Dal 1kg,Groceries,Pulses,Annapoorna Select,SUP001,438
+PRD0006,Maida 1kg,Groceries,Flour,Nirmal Foods,SUP005,1719
+PRD0007,Atta 5kg,Groceries,Flour,Nirmal Foods,SUP005,1761
+PRD0008,Sunflower Oil 1L,Groceries,Cooking Oil,Harvest Basket,SUP002,1225
+PRD0009,Atta 5kg,Groceries,Flour,Daily Grain,SUP004,1966
+PRD0010,Basmati Rice 1kg,Groceries,Rice,Sona Fields,SUP003,1516
+PRD0011,Ragi Flour 1kg,Groceries,Flour,Nirmal Foods,SUP005,3190
+PRD0012,Jaggery 500g,Groceries,Sugar and Salt,Nirmal Foods,SUP005,2367
+PRD0013,Instant Noodles 280g,Groceries,Packaged Food,Nirmal Foods,SUP005,546
+PRD0014,Groundnut Oil 1L,Groceries,Cooking Oil,Nirmal Foods,SUP005,2277
+PRD0015,Sona Masoori Rice 5kg,Groceries,Rice,Harvest Basket,SUP002,1339
+PRD0016,Urad Dal 1kg,Groceries,Pulses,Sona Fields,SUP003,981
+PRD0017,Chilli Powder 200g,Groceries,Spices,Harvest Basket,SUP002,1413
+PRD0018,Chickpeas 1kg,Groceries,Pulses,Daily Grain,SUP004,1070
+PRD0019,Toor Dal 1kg,Groceries,Pulses,Harvest Basket,SUP002,3269
+PRD0020,Cashews 250g,Groceries,Dry Fruits,Harvest Basket,SUP002,3395
+PRD0021,Masoor Dal 1kg,Groceries,Pulses,Nirmal Foods,SUP005,2253
+PRD0022,Brown Rice 1kg,Groceries,Rice,Nirmal Foods,SUP005,1805
+PRD0023,Sambar Powder 200g,Groceries,Spices,,SUP005,2369
+PRD0024,Marie Biscuits 250g,Groceries,Biscuits,Nirmal Foods,SUP005,563
+PRD0025,Garam Masala 100g,Groceries,Spices,Daily Grain,SUP004,1772
+PRD0026,Basmati Rice 1kg,Groceries,Rice,Annapoorna Select,SUP001,3165
+PRD0027,Toor Dal 1kg,Groceries,Pulses,Daily Grain,SUP004,543
+PRD0028,Basmati Rice 1kg,Groceries,Rice,Daily Grain,SUP004,1027
+PRD0029,Corn Flakes 500g,Groceries,Breakfast,Harvest Basket,SUP002,11635
+PRD0030,Rolled Oats 1kg,Groceries,Breakfast,Nirmal Foods,SUP005,1624
+PRD0031,Turmeric Powder 100g,Groceries,Spices,Daily Grain,SUP004,1644
+PRD0032,Brown Rice 1kg,Groceries,Rice,Sona Fields,SUP003,3020
+PRD0033,Besan 1kg,Groceries,Flour,Annapoorna Select,SUP001,3766
+PRD0034,Matta Rice 5kg,Groceries,Rice,Harvest Basket,SUP002,2104
+PRD0035,Jaggery 500g,Groceries,Sugar and Salt,Daily Grain,SUP004,1525
+PRD0036,Almonds 250g,Groceries,Dry Fruits,Harvest Basket,SUP002,4319
+PRD0037,Chana Dal 1kg,Groceries,Pulses,Annapoorna Select,SUP001,1686
+PRD0038,Corn Flakes 500g,Groceries,Breakfast,Daily Grain,SUP004,1454
+PRD0039,Marie Biscuits 250g,Groceries,Biscuits,Annapoorna Select,SUP001,3420
+PRD0040,Masoor Dal 1kg,Groceries,Pulses,Sona Fields,SUP003,640
+PRD0041,Jaggery 500g,Groceries,Sugar and Salt,Harvest Basket,SUP002,1053
+PRD0042,Chana Dal 1kg,  Groceries,Pulses,Sona Fields,SUP003,3154
+PRD0043,Vermicelli 500g,Groceries,Breakfast,Annapoorna Select,SUP001,2403
+PRD0044,Urad Dal 1kg,Groceries,Pulses,Daily Grain,SUP004,4347
+PRD0045,Garam Masala 100g,Groceries,Spices,Annapoorna Select,SUP001,1369
+PRD0046,Rajma 1kg,Groceries,Pulses,Annapoorna Select,SUP001,2503
+PRD0047,Vermicelli 500g,Groceries,Breakfast,Sona Fields,SUP003,2228
+PRD0048,Brown Rice 1kg,Groceries,Rice,Harvest Basket,SUP002,1508
+PRD0049,Cashews 250g,Groceries,Dry Fruits,Daily Grain,SUP004,6496
+PRD0050,Poha 500g,Groceries,Breakfast,Daily Grain,SUP004,2595
+PRD0051,Sugar 1kg,Groceries,Sugar and Salt,Nirmal Foods,SUP005,866
+PRD0052,Groundnut Oil 1L,Groceries,Cooking Oil,Annapoorna Select,SUP001,1766
+PRD0053,Rajma 1kg,Groceries,Pulses,Harvest Basket,SUP002,1283
+PRD0054,Sambar Powder 200g,Groceries,Spices,Daily Grain,SUP004,2328
+PRD0055,Coconut Oil 500ml,Groceries,Cooking Oil,Harvest Basket,SUP002,2623
+PRD0056,Atta 5kg,Groceries,Flour,Annapoorna Select,SUP001,2527
+PRD0057,Moong Dal 1kg,Groceries,Pulses,Sona Fields,SUP003,1040
+PRD0058,Sugar 1kg,Groceries,Sugar and Salt,Daily Grain,SUP004,952
+PRD0059,Vermicelli 500g,Groceries,Breakfast,Daily Grain,SUP004,6104
+PRD0060,Atta 10kg,Groceries,Flour,Annapoorna Select,SUP001,661
+PRD0061,Almonds 250g,Groceries,Dry Fruits,Nirmal Foods,SUP005,0
+PRD0062,Almonds 250g,Groceries,Dry Fruits,Annapoorna Select,SUP001,5163
+PRD0063,Idli Rice 5kg,Groceries,Rice,Daily Grain,SUP004,2743
+PRD0064,Turmeric Powder 100g,Groceries,Spices,Sona Fields,SUP003,0
+PRD0065,Ragi Flour 1kg,Groceries,Flour,Daily Grain,SUP004,0
+PRD0066,Maida 1kg,Groceries,Flour,Daily Grain,SUP004,799
+PRD0067,Idli Rice 5kg,Groceries,Rice,Annapoorna Select,SUP001,2412
+PRD0068,Idli Rice 5kg,Groceries,Rice,Sona Fields,SUP003,513
+PRD0069,Brown Rice 1kg,Groceries,Rice,Daily Grain,SUP004,-9
+PRD0070,Instant Noodles 280g,Groceries,Packaged Food,Annapoorna Select,SUP001,1445
+PRD0071,Jaggery 500g,Groceries,Sugar and Salt,Annapoorna Select,SUP001,3111
+PRD0072,Cashews 250g,Groceries,Dry Fruits,Nirmal Foods,SUP005,1471
+PRD0073,Sugar 1kg,Groceries,Sugar and Salt,Harvest Basket,SUP002,1802
+PRD0074,Poha 500g,Groceries,Breakfast,Sona Fields,SUP003,1553
+PRD0075,Maida 1kg,Groceries,Flour,Harvest Basket,SUP002,3717
+PRD0076,Mixed Pickle 400g,Groceries,Condiments,Nirmal Foods,SUP005,1498
+PRD0077,Jaggery 500g,Groceries,Sugar and Salt,Sona Fields,SUP003,1216
+PRD0078,Sunflower Oil 1L,Groceries,Cooking Oil,Sona Fields,SUP003,1515
+PRD0079,Iodised Salt 1kg,Groceries,Sugar and Salt,Sona Fields,SUP003,836
+PRD0080,Mixed Pickle 400g,Groceries,Condiments,Daily Grain,SUP004,4153
+PRD0081,Mixed Pickle 400g,Groceries,Condiments,Annapoorna Select,SUP001,1153
+PRD0082,Rolled Oats 1kg,Groceries,Breakfast,Daily Grain,SUP004,2610
+PRD0083,Chilli Powder 200g,Groceries,Spices,Annapoorna Select,SUP001,928
+PRD0084,Basmati Rice 5kg,Groceries,Rice,Harvest Basket,SUP002,1374
+PRD0085,Idli Rice 5kg,Groceries,Rice,Harvest Basket,SUP002,515
+PRD0086,Besan 1kg,Groceries,Flour,Sona Fields,SUP003,2100
+PRD0087,Garam Masala 100g,Groceries,Spices,Sona Fields,SUP003,1050
+PRD0088,Turmeric Powder 100g,Groceries,Spices,Harvest Basket,SUP002,1943
+PRD0089,Tomato Ketchup 500g,Groceries,Condiments,Sona Fields,SUP003,1259
+PRD0090,Tomato Ketchup 500g,Groceries,Condiments,Harvest Basket,SUP002,2450
+PRD0091,Iodised Salt 1kg,Groceries,Sugar and Salt,Nirmal Foods,SUP005,4325
+PRD0092,Urad Dal 1kg,Groceries,Pulses,Harvest Basket,SUP002,2769
+PRD0093,Chickpeas 1kg,Groceries,Pulses,Annapoorna Select,SUP001,876
+PRD0094,Mustard Oil 1L,Groceries,Cooking Oil,Sona Fields,SUP003,351
+PRD0095,Toor Dal 1kg,Groceries,PULSES,Sona Fields,SUP003,1716
+PRD0096,Coconut Oil 500ml,Groceries,Cooking Oil,Annapoorna Select,SUP001,1422
+PRD0097,Digestive Biscuits 250g,Groceries,Biscuits,Sona Fields,SUP003,3209
+PRD0098,Marie Biscuits 250g,Groceries,Biscuits,Daily Grain,SUP004,1467
+PRD0099,Urad Dal 1kg,Groceries,Pulses,Nirmal Foods,SUP005,1915
+PRD0100,Vermicelli 500g,Groceries,Breakfast,Harvest Basket,SUP002,
+PRD0101,Instant Noodles 280g,Groceries,Packaged Food,Sona Fields,SUP003,3842
+PRD0102,Moong Dal 1kg,Groceries,Pulses,Nirmal Foods,SUP005,974
+PRD0103,Besan 1kg,Groceries,Flour,Harvest Basket,SUP002,631
+PRD0104,Chickpeas 1kg,groceries,Pulses,Nirmal Foods,SUP005,1469
+PRD0105,Sambar Powder 200g,Groceries,Spices,Annapoorna Select,SUP001,1107
+PRD0106,Chickpeas 1kg,Groceries,Pulses,Sona Fields,SUP003,2541
+PRD0107,Sunflower Oil 1L,Groceries,Cooking Oil,Daily Grain,SUP004,1274
+PRD0108,Coconut Oil 500ml,Groceries,Cooking Oil,Daily Grain,SUP004,1526
+PRD0109,Digestive Biscuits 250g,Groceries,Biscuits,Nirmal Foods,SUP005,1244
+PRD0110,Sunflower Oil 1L,Groceries,Cooking Oil,Nirmal Foods,SUP005,1015
+PRD0111,Groundnut Oil 1L,Groceries,cooking oil,Daily Grain,SUP004,474
+PRD0112,Turmeric Powder 100g,Groceries,Spices,Annapoorna Select,SUP001,738
+PRD0113,Chilli Powder 200g,groceries,Spices,Daily Grain,SUP004,1986
+PRD0114,Groundnut Oil 1L,Groceries,cooking oil,Harvest Basket,SUP002,1024
+PRD0115,Moong Dal 1kg,Groceries,Pulses,Annapoorna Select,SUP001,3296
+PRD0116,Chilli Powder 200g,Groceries,Spices,Nirmal Foods,SUP005,710
+PRD0117,Chilli Powder 200g,Groceries,Spices,Sona Fields,SUP003,3255
+PRD0118,Corn Flakes 500g,Groceries,Breakfast,Annapoorna Select,SUP001,2139
+PRD0119,Mustard Oil 1L,Groceries,Cooking Oil,Daily Grain,SUP004,1937
+PRD0120,Iodised Salt 1kg,Groceries,Sugar and Salt,Daily Grain,SUP004,835
+PRD0121,Vermicelli 500g,Groceries,Breakfast,Nirmal Foods,SUP005,1485
+PRD0122,Matta Rice 5kg,Groceries,Rice,Daily Grain,SUP004,3309
+PRD0123,Mixed Pickle 400g,Groceries,Condiments,Sona Fields,SUP003,4827
+PRD0124,Garam Masala 100g,Groceries,Spices,Nirmal Foods,SUP005,1707
+PRD0125,Digestive Biscuits 250g,Groceries,Biscuits,Daily Grain,SUP004,2531
+PRD0126,Ragi Flour 1kg,Groceries,Flour,Annapoorna Select,SUP001,1451
+PRD0127,Chickpeas 1kg,Groceries,Pulses,Harvest Basket,SUP002,2337
+PRD0128,Moong Dal 1kg,Groceries,Pulses,Harvest Basket,SUP002,3589
+PRD0129,Atta 10kg,Groceries,Flour,Sona Fields,SUP003,1036
+PRD0130,Tomato Ketchup 500g,Groceries,Condiments,Daily Grain,SUP004,1485
+PRD0131,Pasta 500g,Groceries,Packaged Food,Harvest Basket,SUP002,2332
+PRD0132,Mustard Oil 1L,Groceries,Cooking Oil,Annapoorna Select,SUP001,2485
+PRD0133,Groundnut Oil 1L,Groceries,Cooking Oil,Sona Fields,SUP003,1554
+PRD0134,Coriander Powder 200g,Groceries,Spices,Daily Grain,SUP004,757
+PRD0135,Cashews 250g,Groceries,Dry Fruits,Annapoorna Select,SUP001,560
+PRD0136,Atta 10kg,Groceries,Flour,Daily Grain,SUP004,2079
+PRD0137,Marie Biscuits 250g,Groceries,Biscuits,Sona Fields,SUP003,
+PRD0138,Sona Masoori Rice 5kg,Groceries,Rice,Nirmal Foods,SUP005,984
+PRD0139,Digestive Biscuits 250g,Groceries,Biscuits,Annapoorna Select,SUP001,1800
+PRD0140,Sambar Powder 200g,Groceries,Spices,Harvest Basket,SUP002,4924
+PRD0141,Poha 500g,Groceries,Breakfast,Harvest Basket,SUP002,10202
+PRD0142,Basmati Rice 1kg,Groceries,Rice,Nirmal Foods,SUP005,587
+PRD0143,Atta 5kg,Groceries,Flour,Sona Fields,SUP003,4689
+PRD0144,Rolled Oats 1kg,Groceries,Breakfast,Harvest Basket,SUP002,773
+PRD0145,Sunflower Oil 1L,Groceries,Cooking Oil,Annapoorna Select,SUP001,1371
+PRD0146,Sona Masoori Rice 5kg,Groceries,Rice,Annapoorna Select,SUP001,1795
+PRD0147,Tomato Ketchup 500g,Groceries,Condiments,Annapoorna Select,SUP001,0
+PRD0148,Chana Dal 1kg,Groceries,Pulses,Harvest Basket,SUP002,671
+PRD0149,Matta Rice 5kg,Groceries,Rice,Nirmal Foods,SUP005,2286
+PRD0150,Maida 1kg,Groceries,Flour,Sona Fields,SUP003,2417
+PRD0151,Fitness Band,Electronics,Wearables,VoltEdge,SUP008,49
+PRD0152,Wireless Keyboard,Electronics,Computing,Nexora,SUP007,141
+PRD0153,Smartphone 64GB,Electronics,Mobiles,Auralink,SUP009,105
+PRD0154,Wireless Mouse,Electronics,Computing,VoltEdge,SUP008,90
+PRD0155,Smartphone 64GB,Electronics,Mobiles,Nexora,SUP007,118
+PRD0156,Bluetooth Speaker 20W,Electronics,Audio,Nexora,SUP007,408
+PRD0157,Wired Earphones USB-C,Electronics,Audio,Auralink,SUP009,58
+PRD0158,Power Bank 20000mAh,Electronics,Accessories,Auralink,SUP009,54
+PRD0159,Bluetooth Speaker 10W,Electronics,Audio,Digistar,SUP010,60
+PRD0160,Wireless Keyboard,Electronics,Computing,Auralink,SUP009,124
+PRD0161,Smartphone 256GB,Electronics,Mobiles,Nexora,SUP007,379
+PRD0162,Power Bank 10000mAh,Electronics,Accessories,VoltEdge,SUP008,87
+PRD0163,USB-C Charger 30W,Groceries,Accessories,Auralink,SUP009,47
+PRD0164,USB-C Charger 30W,Electronics,Accessories,Nexora,SUP007,195
+PRD0165,Over-Ear Headphones,Electronics,Audio,Auralink,SUP009,98
+PRD0166,Smartphone 256GB,electronic,Mobiles,Digistar,SUP010,0
+PRD0167,USB Drive 64GB,Electronics,Storage,VoltEdge,SUP008,57
+PRD0168,Smartphone 256GB Pro,Electronics,Mobiles,Nexora,SUP007,196
+PRD0169,Power Bank 10000mAh,Electronics,Accessories,Nexora,SUP007,39
+PRD0170,Wireless Mouse,Electronics,Computing,Auralink,SUP009,59
+PRD0171,USB Drive 64GB,Electronics,Storage,Auralink,SUP009,90
+PRD0172,Fitness Band,Electronics,Wearables,Auralink,SUP009,102
+PRD0173,Smartphone 256GB Pro,Electronics,Mobiles,VoltEdge,SUP008,189
+PRD0174,Wireless Earbuds Basic,Electronics,Audio,Nexora,SUP007,87
+PRD0175,Smart Watch,Electronics,Wearables,VoltEdge,SUP008,62
+PRD0176,Smartphone 256GB Pro,Electronics,Mobiles,Digistar,SUP010,223
+PRD0177,Power Bank 10000mAh,Electronics,Accessories,Auralink,SUP009,61
+PRD0178,USB-C Charger 30W,Electronics,Accessories,VoltEdge,SUP008,0
+PRD0179,Smartphone 128GB,Electornics,Mobiles,VoltEdge,SUP008,80
+PRD0180,Fitness Band,Electronics,Wearables,Nexora,SUP007,36
+PRD0181,Wireless Earbuds ANC,Electronics,Audio,Digistar,SUP010,86
+PRD0182,Smart Watch,Electronics,Wearables, Digistar  ,SUP010,37
+PRD0183,Smartphone 128GB,Electronics,Mobiles,Digistar,SUP010,81
+PRD0184,Wireless Earbuds Basic,Electronics,Audio,Auralink,SUP009,167
+PRD0185,USB-C Cable 1m,Electronics,Accessories,Auralink,SUP009,60
+PRD0186,Smartphone 128GB,Electronics,Mobiles,Nexora,SUP007,178
+PRD0187,Wired Earphones USB-C,Electronics,Audio,Nexora,SUP007,57
+PRD0188,USB Drive 64GB,Electronics,Storage,Nexora,SUP007,81
+PRD0189,Smartphone 64GB,Electronics,Mobiles,VoltEdge,SUP008,253
+PRD0190,Memory Card 128GB,Electronics,Storage,Digistar,SUP010,42
+PRD0191,USB-C Cable 1m,Electronics,Accessories,,SUP010,94
+PRD0192,Bluetooth Speaker 10W,Electronics,Audio,VoltEdge,SUP008,81
+PRD0193,Smart Watch,Electronics,Wearables,Auralink,SUP009,77
+PRD0194,Power Bank 20000mAh,electronics,Accessories,VoltEdge,SUP008,75
+PRD0195,Bluetooth Speaker 20W,Electronics,Audio,Auralink,SUP009,45
+PRD0196,Cotton Socks Pack of 3,Clothing,Essentials,Vastra Lane,SUP017,208
+PRD0197,Kids Shorts 6-8 Years,Clothing,Kidswear,Rangree,SUP016,807
+PRD0198,Women's Leggings M Black,Clothing,Womenswear,Rangree,SUP016,782
+PRD0199,Kids Track Pants 9-11 Years,Clothing,Kidswear,Everyday Threads,SUP015,1146
+PRD0200,Men's Vest L Pack of 2,Clothing,Essentials,Rangree,SUP016,1015
+PRD0201,Men's Casual Shirt M Checked,Clothing,Menswear,Everyday Threads,SUP015,686
+PRD0202,Women's Kurti M Floral,Clothing,Womenswear,Vastra Lane,SUP017,1115
+PRD0203,Women's Cotton Top L Blue,Clothing,Womenswear,Cotton Trail,SUP013,202
+PRD0204,Women's Leggings L Navy,Clothing,Womenswear,Urban Loom,SUP014,492
+PRD0205,Cotton Nightwear L,Clothing,Nightwear,Everyday Threads,SUP015,382
+PRD0206,Kids T-Shirt 9-11 Years,Clothing,Kidswear,Vastra Lane,SUP017,107
+PRD0207,Cotton Nightwear L,Clothing,Nightwear,Urban Loom,SUP014,113
+PRD0208,Women's Cotton Top M Pink,Clothing,Womenswear,Cotton Trail,SUP013,310
+PRD0209,Kids Track Pants 9-11 Years,Clothing,Kidswear,Cotton Trail,SUP013,164
+PRD0210,Kids Shorts 6-8 Years,Clothing,Kidswear,Vastra Lane,SUP017,487
+PRD0211,Men's Polo T-Shirt L Blue,Clothing,Menswear,Urban Loom,SUP014,751
+PRD0212,Women's Kurti M Floral,Clothing,Womenswear,Urban Loom,SUP014,1740
+PRD0213,Men's Casual Shirt L Solid,Clothing,Menswear,Rangree,SUP016,373
+PRD0214,Cotton Socks Pack of 3,Clothing,Essentials,Cotton Trail,SUP013,604
+PRD0215,Kids T-Shirt 6-8 Years,Clothing,Kidswear,Cotton Trail,SUP013,188
+PRD0216,Men's Chinos 32 Beige,Clothing,Menswear,Urban Loom,SUP014,120
+PRD0217,Men's Jeans 34 Regular,Clothing,Menswear,Vastra Lane,SUP017,
+PRD0218,Men's Polo T-Shirt L Blue,Clothing,Menswear,Rangree,SUP016,324
+PRD0219,Kids Track Pants 9-11 Years,Clothing,Kidswear,Rangree,SUP016,263
+PRD0220,Men's Cotton T-Shirt XL White,Clothing,Menswear,Urban Loom,SUP014,195
+PRD0221,Men's Cotton T-Shirt M Navy,Clothing,Menswear,RANGREE,SUP016,445
+PRD0222,Women's Kurti L Printed,Clothing,Womenswear,Cotton Trail,SUP013,712
+PRD0223,Men's Cotton T-Shirt XL White,Clothing,Menswear,Everyday Threads,SUP015,90
+PRD0224,Men's Jeans 34 Regular, Clothing  ,Menswear,Everyday Threads,SUP015,605
+PRD0225,School Socks Pack of 3,Clothing,Essentials,Urban Loom,SUP014,236
+PRD0226,Women's Cotton Top M Pink,Clothing,Womenswear,Vastra Lane,SUP017,382
+PRD0227,Kids T-Shirt 9-11 Years,Clothing,Kidswear,Everyday Threads ,SUP015,223
+PRD0228,Men's Cotton T-Shirt XL White,Clothing,Menswear,Cotton Trail,SUP013,263
+PRD0229,Cotton Nightwear L,Clothing,Nightwear,,SUP016,238
+PRD0230,Kids T-Shirt 9-11 Years,Clothing,Kidswear,Cotton Trail,SUP013,517
+PRD0231,Women's Scarf Printed,Clothing,Accessories,RANGREE,SUP016,300
+PRD0232,Men's Jeans 34 Regular,Clothing,Menswear,Urban Loom,SUP014,165
+PRD0233,Women's Leggings L Navy,Clothing,Womenswear,Cotton Trail,SUP013,456
+PRD0234,Women's Kurti M Floral,Clothing,Womenswear,Everyday Threads,SUP015,262
+PRD0235,School Socks Pack of 3,Clothing,Essentials,Everyday Threads,SUP015,149
+PRD0236,Kids T-Shirt 6-8 Years,Clothing,Kidswear,Everyday Threads,SUP015,92
+PRD0237,Cotton Nightwear L,Clothing,Nightwear,Cotton Trail,SUP013,213
+PRD0238,Men's Polo T-Shirt L Blue,Clothing,Menswear,Cotton Trail,SUP013,517
+PRD0239,Men's Vest L Pack of 2,Clothing,Essentials,Vastra Lane,SUP017,
+PRD0240,Women's Leggings M Black,Clothing,Womenswear,Everyday Threads,SUP015,1140
+PRD0241,Women's Jeans 30 Blue,Clothing,Womenswear,Vastra Lane,SUP017,309
+PRD0242,Women's Scarf Printed,Clothing,Accessories,Cotton Trail,SUP013,256
+PRD0243,Women's Kurti L Printed,Clothing,Womenswear,Vastra Lane,SUP017,188
+PRD0244,Cotton Socks Pack of 3,Clothing,Essentials,Everyday Threads,SUP015,1167
+PRD0245,Women's Jeans 30 Blue,Clothing,Womenswear,Cotton Trail,SUP013,559
+PRD0246,Kids Shorts 6-8 Years,Clothing,Kidswear,Cotton Trail,SUP013,124
+PRD0247,Women's Cotton Top L Blue,Clothing,Womenswear,Everyday Threads,SUP015,329
+PRD0248,Men's Vest L Pack of 2,Clothing,Essentials,Urban Loom,SUP014,544
+PRD0249,Men's Jeans 32 Slim,Clothing,Menswear,Urban Loom,SUP014,156
+PRD0250,Women's Kurti L Printed,Clothing,Womenswear,Urban Loom,SUP014,571
+PRD0251,Women's Jeans 30 Blue,Clothing,Womenswear,Everyday Threads,SUP015,435
+PRD0252,Men's Vest L Pack of 2,Clothing,Essentials,Everyday Threads,SUP015,452
+PRD0253,Men's Cotton T-Shirt M Navy,Clothing,Menswear,Vastra Lane,SUP017,644
+PRD0254,Men's Casual Shirt L Solid,Clothing,Menswear,Urban Loom,SUP014,329
+PRD0255,Men's Casual Shirt L Solid,Clothing,Menswear,Vastra Lane,SUP017,349
+PRD0256,Women's Jeans 30 Blue,Clothing,Womenswear,Urban Loom,SUP014,1012
+PRD0257,Women's Jeans 30 Blue,Clothing,Womenswear,Rangree,SUP016,413
+PRD0258,Women's Cotton Top M Pink,Clothing,Womenswear,Urban Loom,SUP014,118
+PRD0259,Kids T-Shirt 9-11 Years,Clothing,Kidswear,Urban Loom,SUP014,2165
+PRD0260,School Socks Pack of 3,Clothing,Essentials,Vastra Lane,SUP017,200
+PRD0261,Men's Cotton T-Shirt L Black,Clothing,Menswear,Cotton Trail,SUP013,401
+PRD0262,Men's Cotton T-Shirt L Black,Clothing,Menswear,Urban Loom,SUP014,211
+PRD0263,Men's Cotton T-Shirt XL White,Clothing,Menswear,Rangree,SUP016,556
+PRD0264,Men's Polo T-Shirt L Blue,Clothing,Menswear,Everyday Threads,SUP015,235
+PRD0265,Men's Jeans 32 Slim,Clothing,Menswear,Everyday Threads,SUP015,304
+PRD0266,Electric Iron Dry,Home Appliances,Garment Care,BrightNest,SUP021,0
+PRD0267,Mixer Grinder 500W,Home Appliances,Kitchen Appliances,BrightNest,SUP021,83
+PRD0268,Hair Dryer 1200W,Home Appliances,Personal Appliances,Cookwell Lane,SUP020,99
+PRD0269,Mixer Grinder 500W,Home Appliances,Kitchen Appliances,Homiva,SUP019,26
+PRD0270,Electric Kettle 1.5L,Home Appliances,Kitchen Appliances,VoltEdge Home,SUP022,81
+PRD0271,Table Fan 400mm,Home Appliances,Cooling,Homiva,SUP019,103
+PRD0272,Vacuum Cleaner Compact,Home Appliances,Cleaning Appliances,BrightNest,SUP021,110
+PRD0273,Pedestal Fan 400mm,Home Appliances, Cooling  ,Cookwell Lane,SUP020,78
+PRD0274,Mixer Grinder 750W,Home Appliances,Kitchen Appliances,Cookwell Lane,SUP020,106
+PRD0275,Electric Kettle 1.8L,Home Appliances,Kitchen Appliances,Homiva,SUP019,68
+PRD0276,Toaster 2 Slice,Home Appliances,Kitchen Appliances,BrightNest,SUP021,57
+PRD0277,Emergency LED Lamp,Home Appliances,Lighting,VoltEdge Home,SUP022,97
+PRD0278,Hair Dryer 1200W,Home Appliances,Personal Appliances,BrightNest,SUP021,76
+PRD0279,Steam Iron 1200W,Home Appliances,Garment Care,Homiva,SUP019,132
+PRD0280,Electric Iron Dry,Home Appliances,Garment Care,Homiva,SUP019,86
+PRD0281,Mixer Grinder 750W,Home Appliances,Kitchen Appliances,BrightNest,SUP021,43
+PRD0282,Steam Iron 1200W,Home Appliances,Garment Care,BrightNest,SUP021,42
+PRD0283,Hair Dryer 1200W,Home Appliances,Personal Appliances,Homiva,SUP019,58 pcs
+PRD0284,Electric Kettle 1.5L,Home Appliances,Kitchen Appliances,BrightNest,SUP021,28
+PRD0285,Hand Blender 300W,Home Appliances,Kitchen Appliances,VoltEdge Home,SUP022,88
+PRD0286,Electric Kettle 1.8L,Home Appliances,Kitchen Appliances,Cookwell Lane,SUP020,272
+PRD0287,Electric Iron Dry,Home Appliances,Garment Care,VoltEdge Home,SUP022,177
+PRD0288,Table Fan 400mm,Home Appliances,Cooling,BrightNest,SUP021,56
+PRD0289,Sandwich Maker,Home Appliances,Kitchen Appliances,BrightNest,SUP021,188
+PRD0290,Mixer Grinder 750W,Home Appliances,Kitchen Appliances,Homiva,SUP019,149
+PRD0291,Pedestal Fan 400mm,Home Appliances,Cooling,Homiva,SUP019,34
+PRD0292,Hand Blender 300W,Home Appliances,Kitchen Appliances,Homiva,SUP019,210
+PRD0293,Air Fryer 4L,Home Appliances,Kitchen Appliances,VoltEdge Home,SUP022,52
+PRD0294,Pedestal Fan 400mm,Home Appliances,Cooling,VoltEdge Home,SUP022,146
+PRD0295,Steam Iron 1200W,Home Appliances,Garment Care,Cookwell Lane,SUP020,40
+PRD0296,Electric Kettle 1.8L,Home Appliances,Kitchen Appliances,VoltEdge Home,SUP022,124
+PRD0297,Induction Cooktop 1600W,Home Appliances,Kitchen Appliances,Cookwell Lane,SUP020,101
+PRD0298,Steam Iron 1200W,Home Appliances,Garment Care,VoltEdge Home,SUP022,52
+PRD0299,Electric Kettle 1.5L,Home Appliances,Kitchen Appliances,Homiva,SUP019,139
+PRD0300,Hair Dryer 1200W,Home Appliances,Personal Appliances,VoltEdge Home,SUP022,60
+PRD0301,Sunscreen SPF50 50g,Personal Care,Skin Care,PurePetal,SUP025,267
+PRD0302,Petroleum Jelly 100g,Personal Care,Skin Care,SoftLeaf,SUP028,210
+PRD0303,Moisturising Cream 100g,Personal Care,Skin Care,SoftLeaf,SUP028,1648
+PRD0304,Body Wash 250ml,Personal Care,Bath and Body,PurePetal,SUP025,2771
+PRD0305,Hand Wash 250ml,Personal Care,Hygiene,SoftLeaf,SUP028,1297
+PRD0306,Face Wash 150g,Personal Care,Skin Care,CareNest,SUP026,1111
+PRD0307,Shaving Foam 200ml,Personal Care,Grooming, PurePetal  ,SUP025,373
+PRD0308,Body Lotion 400ml,Personal Care,Skin Care,PurePetal,SUP025,864
+PRD0309,Moisturising Cream 100g,Personal Care,Skin Care,CareNest,SUP026,933
+PRD0310,Face Wash 150g,Personal Care,Skin Care,SoftLeaf,SUP028,432
+PRD0311,Hair Conditioner 180ml,Personal Care,Hair Care,SoftLeaf,SUP028,1003
+PRD0312,Body Lotion 200ml,Personal Care,Skin Care,SoftLeaf,SUP028,1012
+PRD0313,Face Wash 100g,Personal Care,Skin Care,Daily Bloom,SUP027,326
+PRD0314,Shampoo 340ml,Personal Care,Hair Care,,SUP026,787
+PRD0315,Hand Wash 250ml,Personal Care,Hygiene,CareNest,SUP026,216
+PRD0316,Sunscreen SPF50 50g,Personal Care,Skin Care,SoftLeaf,SUP028,1401
+PRD0317,Hair Serum 100ml,Personal Care,Hair Care,CareNest,SUP026,1107
+PRD0318,Baby Wipes 72,Personal Care,Baby Care,CareNest,SUP026,726
+PRD0319,Coconut Hair Oil 200ml,Personal Care,Hair Care,CareNest,SUP026,1168
+PRD0320,Toothbrush Pack of 2,Personal Care,Oral Care,CareNest,SUP026,1247
+PRD0321,Face Wash 100g,Personal Care,Skin Care,PurePetal,SUP025,443
+PRD0322,Deodorant 150ml,Personal Care,Grooming,Daily Bloom,SUP027,689
+PRD0323,Sanitary Pads Pack of 15,Personal Care,Hygiene,SoftLeaf,SUP028,504
+PRD0324,Shaving Foam 200ml,Personal Care,Grooming,CareNest,SUP026,1000
+PRD0325,Baby Wipes 72,Personal Care,Baby Care,Daily Bloom,SUP027,1655
+PRD0326,Toothpaste 200g,Personal Care,Oral Care,CareNest,SUP026,569
+PRD0327,Moisturising Cream 100g,Personal Care,Skin Care,Daily Bloom,SUP027,869
+PRD0328,Toothpaste 200g,Personal Care,Oral Care,PurePetal,SUP025,692
+PRD0329,Toothpaste 100g,Personal Care,Oral Care,Daily Bloom,SUP027,1081
+PRD0330,Face Wash 100g,Personal Care,Skin Care,CareNest,SUP026,1278
+PRD0331,Toothpaste 200g,Personal Care,Oral Care,SoftLeaf,SUP028,312
+PRD0332,Deodorant 150ml,Personal Care,Grooming,CareNest,SUP026,1381
+PRD0333,Shaving Foam 200ml,Personal Care,Grooming,Daily Bloom,SUP027,3359
+PRD0334,Coconut Hair Oil 200ml,Personal Care,Hair Care,PurePetal,SUP025,2012
+PRD0335,Sanitary Pads Pack of 15,Personal Care,Hygiene,Daily Bloom,SUP027,0
+PRD0336,Razor Pack of 3,Personal Care,Grooming,PurePetal,SUP025,861
+PRD0337,Hair Conditioner 180ml,Personal Care,Hair Care,CareNest,SUP026,2354
+PRD0338,Mouthwash 250ml,Personal Care,Oral Care,SoftLeaf,SUP028,3686
+PRD0339,Body Lotion 400ml,Personal Care,Skin Care,CareNest,SUP026,1369
+PRD0340,Razor Pack of 3,Personal Care,Grooming,Daily Bloom,SUP027,422
+PRD0341,Shampoo 340ml,Personal Care,Hair Care,SoftLeaf,SUP028,831
+PRD0342,Toothbrush Pack of 2,Personal Care,Oral Care,Daily Bloom,SUP027,299
+PRD0343,Sunscreen SPF50 50g,Personal Care,Skin Care,CareNest,SUP026,433
+PRD0344,Hand Wash 250ml,Personal Care,Hygiene,PurePetal,SUP025,528
+PRD0345,Face Wash 150g,Personal Care,Skin Care,PurePetal,SUP025,1686
+PRD0346,Toothpaste 200g,Personal Care,Oral Care,Daily Bloom,SUP027,1394
+PRD0347,Bath Soap 100g Pack of 4,Personal Care,Bath and Body,PurePetal,SUP025,946
+PRD0348,Baby Diapers Medium 30,Personal Care,Baby Care,Daily Bloom,SUP027,1382
+PRD0349,Toothpaste 100g,Personal Care,Oral Care,SoftLeaf,SUP028,469
+PRD0350,Mouthwash 250ml,Personal Care,Oral Care,Daily Bloom,SUP027,639
+PRD0351,Hair Serum 100ml,Personal Care,Hair Care,SoftLeaf,SUP028,474
+PRD0352,Deodorant 150ml,Personal Care,Grooming,PurePetal,SUP025,226
+PRD0353,Body Wash 250ml,Personal Care,Bath and Body,CareNest,SUP026,1252
+PRD0354,Sanitary Pads Pack of 15,Personal Care,Hygiene,PurePetal,SUP025,874
+PRD0355,Shampoo 340ml,Personal Care,Hair Care,Daily Bloom,SUP027,3984
+PRD0356,Shampoo 180ml,Personal Care,Hair Care,PurePetal,SUP025,639
+PRD0357,Petroleum Jelly 100g,Personal Care,Skin Care,CareNest,SUP026,669
+PRD0358,Hair Conditioner 180ml,personal care,Hair Care,Daily Bloom,SUP027,1278
+PRD0359,Body Lotion 400ml,Personal Care,Skin Care,Daily Bloom,SUP027,71
+PRD0360,Shampoo 340ml,Personal Care,Hair Care,PurePetal,SUP025,408
+PRD0361,Packaged Drinking Water 1L,Beverages,Water,FreshPour,SUP032,3711
+PRD0362,Lassi 200ml,Beverages,Dairy Drinks,BrewHaven,SUP034,3398
+PRD0363,Chocolate Drink Mix 500g,Beverages,Malted Drinks,Daily Sip,SUP033,1047
+PRD0364,Mixed Fruit Juice 1L,Beverages,Fruit Drinks,SipGarden,SUP031,2614
+PRD0365,Cola Soft Drink 2L,Beverages,Carbonated Drinks,BrewHaven,SUP034,8111
+PRD0366,Mango Juice 1L,Beverages,Fruit Drinks,BrewHaven,SUP034,1201
+PRD0367,Flavoured Milk 200ml,Beverages,Dairy Drinks,FreshPour,SUP032,1374
+PRD0368,Coconut Water 200ml,Beverages,Ready to Drink,BrewHaven,SUP034,1013
+PRD0369,Energy Drink 250ml,Beverages,Energy Drinks,SipGarden,SUP031,1163
+PRD0370,Buttermilk 200ml,Beverages,Dairy Drinks,FreshPour,SUP032,1852
+PRD0371,Flavoured Milk 200ml,Beverages,Dairy Drinks,BrewHaven,SUP034,821
+PRD0372,Lemon Soft Drink 750ml,Beverages,Carbonated Drinks,BrewHaven,SUP034,1371
+PRD0373,Buttermilk 200ml,Beverages,Dairy Drinks,SipGarden,SUP031,506
+PRD0374,Tea Leaves 250g,Beverages,Tea,Daily Sip,SUP033,2154
+PRD0375,Instant Coffee 100g,Beverages,Coffee,BrewHaven,SUP034,1055
+PRD0376,Green Tea 25 Bags,Beverages,Tea,FreshPour,SUP032,2882
+PRD0377,Orange Soft Drink 2L,Beverages,Carbonated Drinks,BrewHaven,SUP034,566
+PRD0378,Guava Juice 1L,Beverages,Fruit Drinks,FreshPour,SUP032,814
+PRD0379,Soda Water 750ml,Beverages,Water,FreshPour,SUP032,331
+PRD0380,Coconut Water 200ml,Beverages,Ready to Drink,Daily Sip,SUP033,1099
+PRD0381,Cola Soft Drink 2L,Beverages,Carbonated Drinks,SipGarden,SUP031,
+PRD0382,Green Tea 25 Bags,Beverages,Tea,SipGarden,SUP031,774
+PRD0383,Mango Drink 200ml,Beverages,Fruit Drinks,FreshPour,SUP032,1088
+PRD0384,Mixed Fruit Juice 1L,Beverages,Fruit Drinks,BrewHaven,SUP034,974
+PRD0385,Filter Coffee 200g,Beverages,Coffee,BrewHaven,SUP034,3594
+PRD0386,Filter Coffee 200g,Beverages,Coffee,SipGarden,SUP031,1575
+PRD0387,Orange Soft Drink 2L,Beverages,Carbonated Drinks,Daily Sip,SUP033,1604
+PRD0388,Packaged Drinking Water 2L,Beverages,Water,Daily Sip,SUP033,2736
+PRD0389,Flavoured Milk 200ml,Beverages,Dairy Drinks,SipGarden,SUP031,849
+PRD0390,Soda Water 750ml,Beverages,Water,BrewHaven,SUP034,3275
+PRD0391,Lemon Soft Drink 750ml,Beverages,Carbonated Drinks,SipGarden,SUP031,768
+PRD0392,Guava Juice 1L,Beverages,Fruit Drinks,BrewHaven,SUP034,694
+PRD0393,Packaged Drinking Water 2L,Beverages,Water,BrewHaven,SUP034,1422
+PRD0394,Tea Leaves 250g,Beverages,Tea,SipGarden,SUP031,1231
+PRD0395,Lassi 200ml,Beverages,Dairy Drinks,SipGarden,SUP031,1824
+PRD0396,Lassi 200ml,Beverages, Dairy Drinks  ,Daily Sip,SUP033,767
+PRD0397,Coconut Water 200ml,Beverages,Ready to Drink,SipGarden,SUP031,1636
+PRD0398,Orange Juice 1L,Beverages,Fruit Drinks,SipGarden,SUP031,2012
+PRD0399,Orange Soft Drink 2L,Beverages,Carbonated Drinks,FreshPour,SUP032,3864
+PRD0400,Instant Coffee 100g,Beverages,Coffee,Daily Sip,SUP033,925
+PRD0401,Tea Leaves 250g,Beverages,Tea,BrewHaven,SUP034,6446
+PRD0402,Mixed Fruit Juice 1L,Beverages,Fruit Drinks,Daily Sip,SUP033,2482
+PRD0403,Cola Soft Drink 750ml,Beverages,Carbonated Drinks,Daily Sip,SUP033,4284
+PRD0404,Orange Juice 1L,Beverages,Fruit Drinks,BrewHaven,SUP034,1505
+PRD0405,Chocolate Drink Mix 500g,Beverages,Malted Drinks,BrewHaven,SUP034,695
+PRD0406,Soda Water 750ml,Beverages,Water,SipGarden,SUP031,970
+PRD0407,Lemon Soft Drink 750ml,Beverages,Carbonated Drinks,Daily Sip,SUP033,1536
+PRD0408,Tea Leaves 500g,Beverages,Tea,Daily Sip,SUP033,2289
+PRD0409,Mango Drink 200ml,Beverages,Fruit Drinks,BrewHaven,SUP034,1530
+PRD0410,Lemon Iced Tea 500ml,Beverages,Ready to Drink,Daily Sip,SUP033,1792
+PRD0411,Microfibre Cloth Pack of 3,Household Items,Cleaning Tools,HomeShine,SUP037,807
+PRD0412,Dishwashing Bar 300g,Household Items,Dish Care,CleanSpring,SUP040,1076
+PRD0413,Fabric Conditioner 860ml,Household Items,Laundry,TidyNest,SUP038,439
+PRD0414,Laundry Detergent Powder 1kg,Household Items,Laundry,HomeShine,SUP037,580
+PRD0415,Fabric Conditioner 860ml,Household Items,Laundry,Everyday Home,SUP039,2381
+PRD0416,Garbage Bags Medium 30,Household Items,Storage and Disposal,HomeShine,SUP037,853
+PRD0417,Liquid Detergent 1L,Household Items,Laundry,TidyNest,SUP038,547
+PRD0418,Disinfectant 500ml,Household Items,Cleaning,Everyday Home,SUP039,555
+PRD0419,Dishwashing Bar 300g,Household Items,Dish Care,HomeShine,SUP037,301
+PRD0420,Laundry Detergent Powder 2kg,Household Items,Laundry,HomeShine,SUP037,1876
+PRD0421,Microfibre Cloth Pack of 3,Household Items,Cleaning Tools,CleanSpring,SUP040,708
+PRD0422,Mosquito Repellent Refill 45ml,Household Items,Pest Control,Everyday Home,SUP039,731
+PRD0423,Liquid Detergent 1L,Household Items,Laundry,Everyday Home,SUP039,707
+PRD0424,Liquid Detergent 1L,Household Items,Laundry,HomeShine,SUP037,1513
+PRD0425,Fabric Conditioner 860ml,Household Items,Laundry,HomeShine,SUP037,701
+PRD0426,Scrub Pads Pack of 3,Household Items,Cleaning Tools,HomeShine,SUP037,588
+PRD0427,Garbage Bags Medium 30,Household Items,Storage and Disposal,Everyday Home,SUP039,133
+PRD0428,Kitchen Cleaner 500ml,Household Items,Cleaning,HomeShine,SUP037,328
+PRD0429,Toilet Tissue 4 Rolls,Household Items,Paper Products,CleanSpring,SUP040,1705
+PRD0430,Scrub Pads Pack of 3,Household Items,Cleaning Tools,CleanSpring,SUP040,712
+PRD0431,Paper Napkins 100,Household Items,Paper Products,CleanSpring,SUP040,320
+PRD0432,Garbage Bags Medium 30,Household Items,Storage and Disposal,CleanSpring,SUP040,295
+PRD0433,Mosquito Repellent Refill 45ml,Household Items,Pest Control,TidyNest,SUP038,1165
+PRD0434,Insect Spray 400ml,Household Items,Pest Control,CleanSpring,SUP040,364
+PRD0435,AA Batteries Pack of 4,Household Items,Batteries,Everyday Home,SUP039,0
+PRD0436,Microfibre Cloth Pack of 3,Household Items,Cleaning Tools,Everyday Home,SUP039,404
+PRD0437,Toilet Tissue 4 Rolls,Household Items,Paper Products,HomeShine,SUP037,800
+PRD0438,Mosquito Repellent Refill 45ml,Household Items,Pest Control,CleanSpring,SUP040,891
+PRD0439,Toilet Cleaner 500ml,Household Items,Cleaning,CleanSpring,SUP040,695
+PRD0440,Toilet Cleaner 500ml,Household Items,Cleaning,HomeShine,SUP037,512
+PRD0441,Disinfectant 500ml,Household Items,Cleaning,HomeShine,SUP037,202
+PRD0442,Cling Film 30m,Household Items,Kitchen Consumables,HomeShine,SUP037,1007
+PRD0443,Garbage Bags Medium 30,household items,Storage and Disposal,TidyNest,SUP038,791
+PRD0444,LED Bulb 9W,Household Items,Lighting,TidyNest,SUP038,469
+PRD0445,Paper Napkins 100,Household Items,Paper Products,HomeShine,SUP037,974
+PRD0446,Toilet Cleaner 500ml,Household Items,Cleaning,Everyday Home,SUP039,373
+PRD0447,Dishwashing Liquid 500ml,Household Items,Dish Care,CleanSpring,SUP040,369
+PRD0448,Kitchen Cleaner 500ml,Household Items,Cleaning,CleanSpring,SUP040,620
+PRD0449,LED Bulb 9W,Household Items ,Lighting,Everyday Home,SUP039,477
+PRD0450,Laundry Detergent Powder 1kg,Household Items,Laundry,Everyday Home,SUP039,487
+PRD0451,Fabric Conditioner 860ml,Household Items,Laundry,CleanSpring,SUP040,828
+PRD0452,Disinfectant 500ml,Household Items,Cleaning,CleanSpring,SUP040,1695
+PRD0453,Dishwashing Bar 300g,Household Items,Dish Care,Everyday Home,SUP039,679
+PRD0454,Aluminium Foil 9m,Household Items,Kitchen Consumables,TidyNest,SUP038,375
+PRD0455,AA Batteries Pack of 4,Household Items,Batteries,HomeShine,SUP037,482
+PRD0456,Laundry Detergent Powder 2kg,Household Items,Laundry,Everyday Home,SUP039,570
+PRD0457,Dishwashing Liquid 500ml,Household Items,Dish Care,HomeShine,SUP037,564
+PRD0458,Kitchen Towels 2 Rolls,Household Items,Paper Products,CleanSpring,SUP040,507
+PRD0459,Garbage Bags Large 15,Household Items,Storage and Disposal,Everyday Home,SUP039,905
+PRD0460,Dishwashing Liquid 500ml,Household Items,Dish Care,,SUP038,678
+PRD0461,Watermelon 1kg,Fruits and Vegetables,Fruits,Fresh Basket,SUP045,335
+PRD0462,Green Peas 500g,Fruits and Vegetables,Vegetables,Farm Lane,SUP043,249
+PRD0463,Pomegranate 1kg,Fruits and Vegetables,Fruits,Farm Lane,SUP043,625
+PRD0464,Brinjal 500g,Fruits and Vegetables,Vegetables,Orchard Select,SUP044,305
+PRD0465,Coriander 100g,Fruits and Vegetables,Herbs,Farm Lane,SUP043,98
+PRD0466,Ladies Finger 500g,Fruits and Vegetables,Vegetables,Fresh Basket,SUP045,719
+PRD0467,Onions 1kg,Fruits and Vegetables,Vegetables,Orchard Select,SUP044,982
+PRD0468,Green Peas 500g,Fruits and Vegetables,Vegetables,Orchard Select,SUP044,219
+PRD0469,Bananas 1kg,Fruits and Vegetables,Fruits,Fresh Basket,SUP045,750
+PRD0470,Pineapple 1kg,Fruits and Vegetables,Fruits,Farm Lane,SUP043,107
+PRD0471,Capsicum 500g,Fruits and Vegetables,Vegetables,Farm Lane,SUP043,1022
+PRD0472,Apples 1kg,Fruits and Vegetables,Fruits,Farm Lane,SUP043,563
+PRD0473,Cauliflower 500g,Fruits and Vegetables,Vegetables,Fresh Basket,SUP045,252
+PRD0474,Mangoes 1kg,Fruits and Vegetables,Fruits,Orchard Select,SUP044,377
+PRD0475,Green Peas 500g,Fruits and Vegetables,Vegetables,Fresh Basket,SUP045,184
+PRD0476,Potatoes 1kg,Fruits and Vegetables,Vegetables,Farm Lane,SUP043,438
+PRD0477,Watermelon 1kg,Fruits and Vegetables,Fruits,Farm Lane,SUP043,247
+PRD0478,Capsicum 500g,Fruits and Vegetables,Vegetables,Orchard Select,SUP044,891
+PRD0479,Potatoes 1kg,Fruits and Vegetables,Vegetables,Orchard Select,SUP044,0
+PRD0480,Cauliflower 500g,Fruits and Vegetables,Vegetables,Farm Lane,SUP043,493
+PRD0481,Cucumber 500g,Fruits and Vegetables,Vegetables,Fresh Basket,SUP045,795
+PRD0482,Cabbage 1kg,Fruits and Vegetables,Vegetables,Fresh Basket,SUP045,225
+PRD0483,Garlic 200g,Fruits and Vegetables,Herbs,Orchard Select,SUP044,892
+PRD0484,Papaya 1kg,Fruits and Vegetables,Fruits,Orchard Select,SUP044,695
+PRD0485,Oranges 1kg,Fruits and Vegetables,Fruits,Fresh Basket,SUP045,503
+PRD0486,Brinjal 500g,Fruits and Vegetables,Vegetables,Farm Lane,SUP043,149
+PRD0487,Beans 500g,Fruits and Vegetables,Vegetables,Orchard Select,SUP044,396
+PRD0488,Apples 1kg,Fruits and Vegetables,Fruits,Orchard Select,SUP044,247
+PRD0489,Watermelon 1kg,Fruits and Vegetables,Fruits,Orchard Select,SUP044,253
+PRD0490,Onions 1kg,Fruits and Vegetables,Vegetables,Fresh Basket,SUP045,607
+PRD0491,Carrots 500g,Fruits and Vegetables,Vegetables,Farm Lane,SUP043,1036
+PRD0492,Spinach 250g,Fruits and Vegetables,Leafy Greens,Orchard Select,SUP044,414
+PRD0493,Tomatoes 1kg,Fruits and Vegetables,Vegetables,Orchard Select,SUP044,389
+PRD0494,Beans 500g,Fruits and Vegetables,Vegetables,Fresh Basket,SUP045,272
+PRD0495,Apples 1kg,Fruits and Vegetables,Fruits,Fresh Basket,SUP045,1273
+PRD0496,Ginger 200g,Fruits and Vegetables,Herbs,Farm Lane,SUP043,625
+PRD0497,Guava 1kg,Fruits and Vegetables,Fruits,Orchard Select,SUP044,569
+PRD0498,Potatoes 1kg,Fruits and Vegetables,Vegetables,Fresh Basket,SUP045,107
+PRD0499,Oranges 1kg,Fruits and Vegetables,Fruits,Orchard Select,SUP044,409
+PRD0500,Mint 100g,Fruits and Vegetables,Herbs,Orchard Select,SUP044,253
+PRD0141,Poha 500g,Groceries,Breakfast,Harvest Basket,SUP002,10202

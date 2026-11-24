@@ -1,0 +1,101 @@
+Store_ID,Store_Name,City,State,Region,Area
+STR001,Retail 360 Bengaluru Koramangala,Bengaluru,Karnataka,South,Koramangala
+STR002,Retail 360 Bengaluru Indiranagar,Bengaluru,Karnataka,South,Indiranagar
+STR003,Retail 360 Bengaluru Whitefield,Bengaluru,Karnataka,South,Whitefield
+STR004,Retail 360 Bengaluru Jayanagar,Bengaluru,Karnataka,South,Jayanagar
+STR005,Retail 360 Bengaluru Malleshwaram,Bengaluru,Karnataka,South,Malleshwaram
+STR006,Retail 360 Bengaluru HSR Layout,Bengaluru,Karnataka,South,HSR Layout
+STR007,Retail 360 Bengaluru Marathahalli,Bengaluru,Karnataka,South,Marathahalli
+STR008,Retail 360 Bengaluru Yelahanka,Bengaluru,Karnataka,South,Yelahanka
+STR009,Retail 360 Bengaluru Banashankari,Bengaluru,Karnataka,South,Banashankari
+STR010,Retail 360 Bengaluru BTM Layout,Bengaluru,Karnataka,South,BTM Layout
+STR011,Retail 360 Bengaluru Rajajinagar,Bengaluru,Karnataka,South,Rajajinagar
+STR012,Retail 360 Bengaluru Hebbal,Bengaluru,Karnataka,South,Hebbal
+STR013,Retail 360 Bengaluru Electronic City,Bengaluru,Karnataka,South,Electronic City
+STR014,Retail 360 Bengaluru Basavanagudi,Bengaluru,Karnataka,South,Basavanagudi
+STR015,Retail 360 Mumbai Andheri,Mumbai,Maharashtra,West,Andheri
+STR016,Retail 360 Mumbai Borivali,Mumbai,Maharashtra,West,Borivali
+STR017,Retail 360 Mumbai Dadar,Mumbai,Maharashtra,West,Dadar
+STR018,Retail 360 Mumbai Powai,Mumbai,Maharashtra,West,Powai
+STR019,Retail 360 Mumbai Bandra,Mumbai,Maharashtra,West,Bandra
+STR020,Retail 360 Mumbai Goregaon,Mumbai,Maharashtra,West,Goregaon
+STR021,Retail 360 Mumbai Mulund,Mumbai,Maharashtra,West,Mulund
+STR022,Retail 360 Mumbai Chembur,Mumbai,Maharashtra,West,Chembur
+STR023,Retail 360 Mumbai Worli,Mumbai,Maharashtra,West,Worli
+STR024,Retail 360 Mumbai Kurla,Mumbai,Maharashtra,West,Kurla
+STR025,Retail 360 Mumbai Malad,Mumbai,Maharashtra,West,Malad
+STR026,Retail 360 Mumbai Ghatkopar,Mumbai,Maharashtra,West,Ghatkopar
+STR027,Retail 360 Mumbai Vikhroli,Mumbai,Maharashtra,West,Vikhroli
+STR028,Retail 360 Mumbai Colaba,Mumbai,Maharashtra,West,Colaba
+STR029,Retail 360 Delhi Rohini,Delhi,Delhi,North,Rohini
+STR030,Retail 360 Delhi Dwarka,Delhi,Delhi,North,Dwarka
+STR031,Retail 360 Delhi Saket,Delhi,Delhi,North,Saket
+STR032,Retail 360 Delhi Lajpat Nagar,Delhi,Delhi,North,Lajpat Nagar
+STR033,Retail 360 Delhi Janakpuri,Delhi,Delhi,North,Janakpuri
+STR034,Retail 360 Delhi Karol Bagh,Delhi,Delhi,North,Karol Bagh
+STR035,Retail 360 Delhi Mayur Vihar,Delhi,Delhi,North,Mayur Vihar
+STR036,Retail 360 Delhi Pitampura,Delhi,Delhi,North,Pitampura
+STR037,Retail 360 Delhi Vasant Kunj,Delhi,Delhi,North,Vasant Kunj
+STR038,Retail 360 Delhi Shahdara,Delhi,Delhi,North,Shahdara
+STR039,Retail 360 Delhi Chandni Chowk,Delhi,Delhi,North,Chandni Chowk
+STR040,Retail 360 Delhi Greater Kailash,Delhi,Delhi,North,Greater Kailash
+STR041,Retail 360 Hyderabad Banjara Hills,Hyderabad,Telangana,South,Banjara Hills
+STR042,Retail 360 Hyderabad Gachibowli,Hyderabad,Telangana,South,Gachibowli
+STR043,Retail 360 Hyderabad Kukatpally,Hyderabad,Telangana,South,Kukatpally
+STR044,Retail 360 Hyderabad Madhapur,Hyderabad,Telangana,South,Madhapur
+STR045,Retail 360 Hyderabad Kondapur,Hyderabad,Telangana,South,Kondapur
+STR046,Retail 360 Hyderabad Begumpet,Hyderabad,Telangana,South,Begumpet
+STR047,Retail 360 Hyderabad Ameerpet,Hyderabad,Telangana,South,Ameerpet
+STR048,Retail 360 Hyderabad Manikonda,Hyderabad,Telangana,South,Manikonda
+STR049,Retail 360 Hyderabad Uppal,Hyderabad,Telangana,South,Uppal
+STR050,Retail 360 Hyderabad Dilsukhnagar,Hyderabad,Telangana,South,Dilsukhnagar
+STR051,Retail 360 Chennai T Nagar,Chennai, Tamil Nadu  ,South,T Nagar
+STR052,Retail 360 Chennai Adyar,Chennai,Tamil Nadu,South,Adyar
+STR053,Retail 360 Chennai Velachery,Chennai,Tamil Nadu,South,Velachery
+STR054,Retail 360 Chennai Anna Nagar,Chennai,Tamil Nadu,South,Anna Nagar
+STR055,Retail 360 Chennai Mylapore,Chennai,Tamil Nadu,South,Mylapore
+STR056,Retail 360 Chennai Porur,Chennai,Tamil Nadu,South,Porur
+STR057,Retail 360 Chennai Tambaram,Chennai,Tamil Nadu,South,Tambaram
+STR058,Retail 360 Chennai Sholinganallur,Chennai,Tamil Nadu,South,Sholinganallur
+STR059,Retail 360 Pune Baner,Pune,Maharashtra,West,Baner
+STR060,Retail 360 Pune Kothrud,Pune,Maharashtra,West,Kothrud
+STR061,Retail 360 Pune Wakad,Pune,Maharashtra,West,Wakad
+STR062,Retail 360 Pune Hadapsar,Pune,Maharashtra,West,Hadapsar
+STR063,Retail 360 Pune Viman Nagar,Pune,Maharashtra,West,Viman Nagar
+STR064,Retail 360 Pune Aundh,Pune,Maharashtra,West,Aundh
+STR065,Retail 360 Pune Shivajinagar,Pune,Maharashtra,West,Shivajinagar
+STR066,Retail 360 Pune Kharadi,Pune,Maharashtra,West,Kharadi
+STR067,Retail 360 Kolkata Salt Lake,Kolkata,West Bengal,East,Salt Lake
+STR068,Retail 360 Kolkata Ballygunge,Kolkata,West Bengal,East,Ballygunge
+STR069,Retail 360 Kolkata Gariahat,Kolkata,West Bengal,East,Gariahat
+STR070,Retail 360 Kolkata Dum Dum,Kolkata,West Bengal,East,Dum Dum
+STR071,Retail 360 Kolkata Behala,Kolkata,West Bengal,East,Behala
+STR072,Retail 360 Kolkata New Town,Kolkata,West Bengal,East,New Town
+STR073,Retail 360 Kolkata Tollygunge,Kolkata,West Bengal,East,Tollygunge
+STR074,Retail 360 Ahmedabad Navrangpura,Ahmedabad,Gujarat,West,Navrangpura
+STR075,Retail 360 Ahmedabad Satellite,Ahmedabad,Gujarat,West,Satellite
+STR076,Retail 360 Ahmedabad Bopal,Ahmedabad,Gujarat,West,Bopal
+STR077,Retail 360 Ahmedabad Maninagar,Ahmedabad,Gujarat,West,Maninagar
+STR078,Retail 360 Ahmedabad Prahlad Nagar,Ahmedabad,Gujarat,West,Prahlad Nagar
+STR079,Retail 360 Jaipur Malviya Nagar,Jaipur,Rajasthan,North,Malviya Nagar
+STR080,Retail 360 Jaipur Vaishali Nagar,Jaipur,Rajasthan,North,Vaishali Nagar
+STR081,Retail 360 Jaipur Mansarovar,Jaipur,Rajasthan,North,Mansarovar
+STR082,Retail 360 Jaipur C Scheme,Jaipur,Rajasthan,North,C Scheme
+STR083,Retail 360 Lucknow Gomti Nagar,Lucknow,Uttar Pradesh,North,Gomti Nagar
+STR084,Retail 360 Lucknow Aliganj,Lucknow,Uttar Pradesh,North,Aliganj
+STR085,Retail 360 Lucknow Hazratganj,Lucknow,Uttar Pradesh,North,Hazratganj
+STR086,Retail 360 Lucknow Indira Nagar,Lucknow,Uttar Pradesh,North,Indira Nagar
+STR087,Retail 360 Kochi Edappally,Kochi,Kerala,South,Edappally
+STR088,Retail 360 Kochi Kakkanad,Kochi,Kerala,South,Kakkanad
+STR089,Retail 360 Kochi Vyttila,Kochi,Kerala,South,Vyttila
+STR090,Retail 360 Kochi Panampilly Nagar,Kochi,Kerala,South,Panampilly Nagar
+STR091,Retail 360 Kozhikode Mavoor Road,Kozhikode,Kerala,South,Mavoor Road
+STR092,Retail 360 Kozhikode Nadakkavu,Kozhikode,Kerala,South,Nadakkavu
+STR093,Retail 360 Coimbatore RS Puram,Coimbatore,Tamil Nadu,South,RS Puram
+STR094,Retail 360 Coimbatore Peelamedu,Coimbatore,Tamil Nadu,South,Peelamedu
+STR095,Retail 360 Coimbatore Gandhipuram,Coimbatore,Tamil Nadu,South,Gandhipuram
+STR096,Retail 360 Chandigarh Sector 17,Chandigarh,Chandigarh,North,Sector 17
+STR097,Retail 360 Chandigarh Sector 35,Chandigarh,Chandigarh,North,Sector 35
+STR098,Retail 360 Indore Vijay Nagar,Indore,Madhya Pradesh,Central,Vijay Nagar
+STR099,Retail 360 Indore Palasia,Indore,Madhya Pradesh,Central,Palasia
+STR100,Retail 360 Indore Rajendra Nagar,Indore,Madhya Pradesh,Central,Rajendra Nagar
